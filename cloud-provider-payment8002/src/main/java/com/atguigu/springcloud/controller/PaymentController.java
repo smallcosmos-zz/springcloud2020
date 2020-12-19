@@ -35,4 +35,9 @@ public class PaymentController {
             return new CommenResult(444,"查询结果为空，查询ID为"+id,null);
         }
     }
+
+    @GetMapping("/payment/lb")
+    public String getServerPort(){
+        return serverPort;
+    }
 }

@@ -57,4 +57,9 @@ public class PaymentController {
         }
         return instances;
     }
+
+    @GetMapping("/payment/lb")
+    public String getServerPort(){
+        return serverPort;
+    }
 }
