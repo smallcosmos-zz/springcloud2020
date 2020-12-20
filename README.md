@@ -47,3 +47,9 @@
 5、配置openfeign的超时调用；
 
 6、使用了openfeign的日志打印功能；
+
+**springcloud项目学习打卡第五天**
+
+1、了解了hystrix降级、熔断、限流基本概念；
+
+2、完成hystrix降级项目案例；
