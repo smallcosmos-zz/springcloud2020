@@ -53,3 +53,7 @@
 1、了解了hystrix降级、熔断、限流基本概念；
 
 2、完成hystrix降级项目案例；
+
+**springcloud项目学习打卡第六天**
+
+1、完成hystrix服务熔断项目案例；
