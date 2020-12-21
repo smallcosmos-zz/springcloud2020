@@ -57,3 +57,5 @@
 **springcloud项目学习打卡第六天**
 
 1、完成hystrix服务熔断项目案例；
+
+2、完成gateway 网关配置相关案例；
