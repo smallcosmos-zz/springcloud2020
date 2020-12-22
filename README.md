@@ -59,3 +59,9 @@
 1、完成hystrix服务熔断项目案例；
 
 2、完成gateway 网关配置相关案例；
+
+**springcloud项目学习打卡第七天**
+
+1、完成springcloud config分布式配置中心的相关案例；
+
+2、完成了springcloud bus消息总线的相关案例；
