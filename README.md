@@ -71,3 +71,9 @@
 1、完成springcloud stream 相关案例的学习；
 
 2、完成springcloud sleuth和zipkin搭建链路监控案例；
+
+3、了解了springcloud alibaba 
+
+4、完成nacos作为服务注册中心的项目案例；
+
+5、完成了使用resttemplate和openfeign两种消费者调用服务者案例；
