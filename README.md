@@ -77,3 +77,11 @@
 4、完成nacos作为服务注册中心的项目案例；
 
 5、完成了使用resttemplate和openfeign两种消费者调用服务者案例；
+
+**springcloud项目学习打卡第九天**
+
+1、完成使用nacos作为配置中心的项目案例；
+
+2、完成nacos Namespace+Group+Data ID 配置的项目案例；
+
+3、完成nacos集群+nginx的部署测试；
