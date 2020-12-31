@@ -85,3 +85,15 @@
 2、完成nacos Namespace+Group+Data ID 配置的项目案例；
 
 3、完成nacos集群+nginx的部署测试；
+
+**springcloud项目学习打卡第十天**
+
+1、安装sentinel控制台；
+
+2、学习sentinel的流控规则；
+
+3、学习sentinel的降级规则；
+
+4、学习sentinel热点key限流；
+
+5、完成setinel自定义限流处理逻辑；
