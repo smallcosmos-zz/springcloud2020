@@ -1,0 +1,9 @@
+D:\java\program\cloud2020\seata-storage-service2002\src\main\java\com\atguigu\springcloud\domain\Storage.java
+D:\java\program\cloud2020\seata-storage-service2002\src\main\java\com\atguigu\springcloud\dao\StorageDao.java
+D:\java\program\cloud2020\seata-storage-service2002\src\main\java\com\atguigu\springcloud\config\DataSourceProxyConfig.java
+D:\java\program\cloud2020\seata-storage-service2002\src\main\java\com\atguigu\springcloud\config\MyBatisConfig.java
+D:\java\program\cloud2020\seata-storage-service2002\src\main\java\com\atguigu\springcloud\service\StorageService.java
+D:\java\program\cloud2020\seata-storage-service2002\src\main\java\com\atguigu\springcloud\controller\StorageController.java
+D:\java\program\cloud2020\seata-storage-service2002\src\main\java\com\atguigu\springcloud\domain\CommonResult.java
+D:\java\program\cloud2020\seata-storage-service2002\src\main\java\com\atguigu\springcloud\service\impl\StorageServiceImpl.java
+D:\java\program\cloud2020\seata-storage-service2002\src\main\java\com\atguigu\springcloud\SeataStorageMain2002.java

@@ -97,3 +97,9 @@
 4、学习sentinel热点key限流；
 
 5、完成setinel自定义限流处理逻辑；
+
+**springcloud项目学习打卡第十一天**
+
+1、了解了seata 1+3组件 1是全局唯一ID,3是TC、TM、RM；
+
+2、完成seata分布式事务的项目案例；
